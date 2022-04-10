@@ -13,6 +13,7 @@ Settings for Intellij LAF
 * XCode  (No hyphen)
 * Rainbow Brackets
 * Atom Material Plugin
+* Others here - https://twitter.com/DailyCodeBuffer/status/1512700758860320768 
 
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/1119584/162631136-9edb93c7-3394-4756-9e0b-c0707384732f.png">
 
